@@ -1,2 +1,2 @@
 # forward-curve
-Forward-curve modelling for the pricing tool. 
+Modelling forward-curves for the pricing tool. 
